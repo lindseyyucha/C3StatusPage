@@ -1,7 +1,7 @@
 body {
-    font-family: Helvetica, sans-serif;
+    font-family: sans-serif;
     color: #EAE8FF;
-    background: #503E64;
+    background: #1F2544;
     margin: 0 auto; 
     /*padding: 0 40px;*/
    /* text-align: right;*/
@@ -9,7 +9,7 @@ body {
 
 
 h1 {
-    background-image: url('images/crescentmoon.png');
+    background-image: url('/images/crescentmoon.png');
     font-size: 3em;
     background-repeat: no-repeat; 
     background-size: 40px; 
