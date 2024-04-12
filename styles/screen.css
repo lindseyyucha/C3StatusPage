@@ -9,7 +9,12 @@ body {
 
 
 h1 {
-    font-size: 6em;
+    background-image: url('images/crescentmoon.png');
+    font-size: 3em;
+    background-repeat: no-repeat; 
+    background-size: 40px; 
+    padding-left: 55px; 
+    margin: 100px 0 25px 0; 
     letter-spacing: -2px;
 }
 
