@@ -18,3 +18,19 @@ h1 {
     letter-spacing: -2px;
 }
 
+table {
+    width: 100%;
+    border-collapse: collapse;
+}
+
+td {
+    padding: 10px;
+    border: 1px solid #ddd;
+}
+
+img {
+    max-width: 100%;
+    height: auto;
+    display: block;
+}
+
