@@ -19,7 +19,7 @@ h1 {
 }
 
 table {
-    width: 100%;
+    width: calc(100% - 40px); 
     border-collapse: collapse;
     border-bottom: 1px solid #ddd; 
     margin-bottom: 20px;
